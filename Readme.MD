@@ -2,11 +2,10 @@
 
 Lojas: NY, Boston e Philadelphia
 
-ds prices:
-sell_prices: price for the product “item” for the period in “yearweek”. Prices are provided per week (average across 7 days). If not available, there were no sales for the product during that week
+DS prices: sell_prices: price for the product “item” for the period in “yearweek”. Prices are provided per week (average across 7 days). If not available, there were no sales for the product during that week
 
 Analisar produtos mais e menos populares entre lojas/cidades
-Aprensetar em um dashboard (power bi)
+Apresentar em um dashboard (power bi)
 
 * Clustering
 Identificar grupo de produtos semelhantes (quantidade de grupos)
